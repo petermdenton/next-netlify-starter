@@ -20,7 +20,7 @@ export default function Home() {
       <main>
         <Header title="Who owns the most .eth domains?" />
         <p className="description">
-          Going to start adding a bunch of details around the wallet ID
+          The Ethereum Address 0xaA96a50A2f67111262Fe24576bd85Bb56eC65016 owns the most .eth domains.
         </p>
       </main>
 
