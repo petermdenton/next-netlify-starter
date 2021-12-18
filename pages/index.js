@@ -6,16 +6,15 @@ export default function Home() {
   return (
     <div className="container">
       <Head>
-        <title>Next.js Starter!</title>
+        <title>Who owns the most .eth domains</title>
         <link rel="icon" href="/favicon.ico" />
       </Head>
 
       <main>
-        <Header title="Welcome to my app!" />
+        <Header title="Who owns the most .eth domains?" />
         <p className="description">
-          Get started by editing <code>pages/index.js</code>
+          Going to start adding a bunch of details around the wallet ID
         </p>
-        <p>this is coool</p>
       </main>
 
       <Footer />
