@@ -22,6 +22,10 @@ export default function Home() {
         <p className="description">
           The Ethereum Address 0xaA96a50A2f67111262Fe24576bd85Bb56eC65016 owns the most .eth domains.
         </p>
+  
+        <p className="description">
+          The current ETH balance in that wallet is 2.095966294035386714 Ether
+        </p>
       </main>
 
       <Footer />
