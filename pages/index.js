@@ -8,6 +8,13 @@ export default function Home() {
       <Head>
         <title>Who owns the most .eth domains</title>
         <link rel="icon" href="/favicon.ico" />
+        <script async src="https://www.googletagmanager.com/gtag/js?id=G-7WEQP2LGY2"></script>
+        <script>
+          window.dataLayer = window.dataLayer || [];
+          function gtag(){dataLayer.push(arguments);}
+          gtag('js', new Date());
+          gtag('config', 'G-7WEQP2LGY2');
+        </script>
       </Head>
 
       <main>
