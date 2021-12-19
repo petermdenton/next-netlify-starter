@@ -27,6 +27,10 @@ export default function Home() {
         <p className="description">
           The current ETH balance in that wallet is 2.095966294035386714 Ether
         </p>
+        <p className="description">
+          It is unconfirmed that the twitter user is https://twitter.com/top_eth
+        </p>
+  
       </main>
 
       <Footer />
